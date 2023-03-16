@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n 倉儲 \n 組員:詹耀賢、葉桓亞 \n', 'tags': '', 'url': 'About.html'}, {'title': 'w3', 'text': '', 'tags': '', 'url': 'w3.html'}, {'title': 'bubbleRob', 'text': '\n \n', 'tags': '', 'url': 'bubbleRob.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n 倉儲 \n 組員:詹耀賢、葉桓亞', 'tags': '', 'url': 'About.html'}, {'title': 'w3', 'text': '', 'tags': '', 'url': 'w3.html'}, {'title': 'bubbleRob', 'text': '\n', 'tags': '', 'url': 'bubbleRob.html'}]};
